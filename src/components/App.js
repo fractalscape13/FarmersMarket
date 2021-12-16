@@ -9,7 +9,7 @@ function App() {
     <React.Fragment>
       <Header />
       <Days />
-      <Months />A
+      <Months />
     </React.Fragment>
 
   );
